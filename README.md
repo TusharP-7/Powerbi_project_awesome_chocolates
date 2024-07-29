@@ -11,3 +11,6 @@ This repository contains the Power BI dashboard created for the Awesome Chocolat
 5) Interactivity: Utilizes bookmarks, and conditional formatting.<br>
 6) Drill-down Functionality: Allows detailed exploration of the data.<br>
 
+<h3> Dashboard</h3>
+
+<img src= "https://github.com/TusharP-7/Powerbi_project_awesome_chocolates/blob/main/Awesome%20Chocolate%20Project.JPG">
